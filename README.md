@@ -1,8 +1,8 @@
 # flutter_scoped_model_example
 
-A new Flutter project.
+Simple counter app demo implemented with ScopedModel.
 
-## Getting Started
+# Links
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+- [scoped_model](https://github.com/brianegan/scoped_model)
+- [Scoped Model の基本的な使い方（Flutter）](https://qiita.com/hayassh/items/690fa0d6528e056617b5)
